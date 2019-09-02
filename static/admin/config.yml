@@ -6,9 +6,10 @@ media_folder: static/img
 public_folder: /img
 
 media_library:
-  name: uploadcare
+  name: cloudinary
   config:
-    publicKey: ef86fa61eadd0ec09c5a
+    cloud_name: dyb6c9o6f
+    api_key: 778313216118188
 
 collections:
   - name: "blog"
